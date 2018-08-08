@@ -13,7 +13,9 @@ Text Domain: twentysixteen
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 */
-
+/*
+ * Some comments
+*/
 
 /**
  * Table of Contents
@@ -58,6 +60,8 @@ Use it to make something cool, have fun, and share what you've learned with othe
  * Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
  */
 
+
+/* Add comment here ! */
 html {
 	font-family: sans-serif;
 	-webkit-text-size-adjust: 100%;
